@@ -19,8 +19,8 @@ I am a highly skilled **Full Stack Developer** with over **3 years of experience
 **Database:** MySQL, MS SQL  
 
 ## 📊 GitHub Stats  
-![Rajbahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
+![Rajbahadur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techrajsaroj&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techrajsaroj&layout=compact&theme=dark)  
 
 ## 📫 Connect with Me  
 [![Website](https://img.shields.io/badge/Website-green?style=flat&logo=google-chrome&logoColor=white)](https://www.mrsaroj.com)  
